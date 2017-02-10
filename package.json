@@ -20,6 +20,7 @@
     "fh-fhc": "~2.17.1-516",
     "fh-mbaas-api": "~5.14.2",
     "mkdirp": "~0.5.1",
+    "moment": "~2.17.1",
     "ramda": "~0.23.0",
     "rhmap-mongodb": "git+https://github.com/MikeyBurkman/rhmap-mongodb#v1.1.0"
   },
