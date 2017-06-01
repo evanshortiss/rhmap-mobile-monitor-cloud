@@ -1,0 +1,14 @@
+{
+  "csrf": "gj8231c508bgh7653c98e92a615fh653",
+  "domain": "acme",
+  "login": "gh76tque99furo7cz7llop7",
+  "responses": {
+    "local": {
+      "status": "ok"
+    }
+  },
+  "result": "ok",
+  "sub": "ghfttedfnta2ktpxlh8h4j7b",
+  "timestamp": 1496280185813,
+  "user": "lotnhvzj00cloavmtur7bf4p"
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "created": "2017-05-24T08:45:31.196Z",
+    "modified": "2017-05-24T08:45:31.196Z",
+    "order": 3,
+    "domain": "acme",
+    "id": "demos-uat",
+    "label": "UAT",
+    "target": {
+      "created": "2017-05-24T08:44:50.971Z",
+      "modified": "2017-05-24T08:44:50.971Z",
+      "domain": "acme",
+      "label": "MBaaS 2 (us-demos)",
+      "id": "tom1-mbaas2",
+      "_id": "59254802cd8b77f107a06723",
+      "__v": 0,
+      "decoupled": false,
+      "editable": false,
+      "enabled": true,
+      "type": "feedhenry",
+      "_env": "demos-uat",
+      "_label": "UAT"
+    },
+    "autoDeployOnCreate": false,
+    "autoDeployOnUpdate": false,
+    "_id": "demos-uat",
+    "enabled": true,
+    "__v": 0,
+    "uid": "5925482bcd8b77f107a06725"
+  }
+]

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Red Hat Mobile Status</title>
+	<atom:link href="https://redhatmobilestatus.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://redhatmobilestatus.com</link>
+	<description>View the current status of key services hosted on the Red Hat Mobile Application Platform</description>
+	<lastBuildDate>Wed, 03 May 2017 19:49:07 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='redhatmobilestatus.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://s2.wp.com/i/buttonw-com.png</url>
+		<title>Red Hat Mobile Status</title>
+		<link>https://redhatmobilestatus.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://redhatmobilestatus.com/osd.xml" title="Red Hat Mobile Status" />
+	<atom:link rel='hub' href='https://redhatmobilestatus.com/?pushpress=hub'/>
+	<item>
+		<title>Brief Service Disruption to Evals Grid (US-Tom)</title>
+		<link>https://redhatmobilestatus.com/2017/05/03/brief-service-disruption-to-evals-grid-us-tom/</link>
+		<pubDate>Wed, 03 May 2017 18:58:07 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[Core MAP (US-TOM)]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1776</guid>
+		<description><![CDATA[2017-05-03 18:41 UTC We are currently experiencing some disruption to service in our Evaluation Grid US-TOM App Studio. We are actively working on this issue and hope to have it resolved as soon as possible. UPDATE: 2017-05-03 18:50 UTC The root cause of the issue has been identified and resolved. All services have resumed normal operation. Please [&#8230;]<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1776&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><strong>2017-05-03 18:41 UTC</strong></p>
+<p>We are currently experiencing some disruption to service in our Evaluation Grid US-TOM App Studio. We are actively working on this issue and hope to have it resolved as soon as possible.</p>
+<p><strong>UPDATE: 2017-05-03 18:50 UTC</strong></p>
+<p>The root cause of the issue has been identified and resolved. All services have resumed normal operation. Please accept our apologies for any disruption this may have caused.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1776/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1776/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1776&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Service Disruption to the US-TOM Grid</title>
+		<link>https://redhatmobilestatus.com/2017/04/30/service-disruption-to-the-us-tom-grid/</link>
+		<pubDate>Sun, 30 Apr 2017 12:03:06 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[Core MAP (US-TOM)]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1768</guid>
+		<description><![CDATA[We are currently experiencing a disruption in service in our US-TOM grid. We are in the process of investigating this issue and hope to have it resolved as soon as possible. UPDATE 2017-04-30 13:17 UTC The root cause has been identified and corrective action is being taken in order to restore proper service. UPDATE 2017-04-30 [&#8230;]<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1768&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>We are currently experiencing a disruption in service in our US-TOM grid. We are in the process of investigating this issue and hope to have it resolved as soon as possible.</p>
+<p><strong>UPDATE 2017-04-30 13:17 UTC</strong></p>
+<p>The root cause has been identified and corrective action is being taken in order to restore proper service.</p>
+<p><strong>UPDATE 2017-04-30 13:32 UTC</strong></p>
+<p>Restoration is about 75% complete.  Final step is running and is expected to complete shortly.</p>
+<p><strong>UPDATE 2017-04-30 13:43 UTC</strong></p>
+<p>Restoration is complete.  Preliminary testing shows all services are back up and running; however, we will perform additional verification before giving an ALL CLEAR.</p>
+<p><strong>ALL CLEAR 2017-04-30 13:55 UTC</strong></p>
+<p>Verification process has been completed.  All services are fully operational.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1768/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1768/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1768&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Essential Maintenance Notification: Shared Enterprise EU (LON3)</title>
+		<link>https://redhatmobilestatus.com/2017/04/21/essential-maintenance-notification-shared-enterprise-eu-lon3-3/</link>
+		<pubDate>Fri, 21 Apr 2017 08:27:37 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[Core MAP (EU-LON3)]]></category>
+		<category><![CDATA[Essential Maintenance]]></category>
+		<category><![CDATA[MBaaS]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1761</guid>
+		<description><![CDATA[RedHat Mobile has been informed by one of our infrastructure partners of a second major essential maintenance on our Shared EU Enterprise Platform (LON3). This work has been deemed necessary to maintain  infrastructure security. This maintenance has been scheduled for the following time periods: Wednesday, April 26th, 2017 08:30 – 09:30 UTC There will be [&#8230;]<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1761&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>RedHat Mobile has been informed by one of our infrastructure partners of a second major essential maintenance on our Shared EU Enterprise Platform (LON3). This work has been deemed necessary to maintain  infrastructure security.<br />
+This maintenance has been scheduled for the following time periods:</p>
+<p>Wednesday, April 26th, 2017 08:30 – 09:30 UTC</p>
+<p>There will be a brief period where the services on our EU Enterprise Studio and Cloud will be unavailable.</p>
+<p>Please accept our apologies for any inconvenience this may cause. We welcome you to reach out to our Support Team via appropriate channels with any questions or concerns.</p>
+<p><strong>Commencement 2017-04-26 08:30 UTC<br />
+</strong></p>
+<p>This maintenance task has begun.</p>
+<p><strong>ALL CLEAR 2017-04-26 08:55 UTC<br />
+</strong></p>
+<p>This round of maintenance has been completed.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1761/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1761/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1761&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Essential Maintenance Notification: Shared Enterprise EU (LON3)</title>
+		<link>https://redhatmobilestatus.com/2017/04/21/essential-maintenance-notification-shared-enterprise-eu-lon3-2/</link>
+		<pubDate>Fri, 21 Apr 2017 08:17:14 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[Core MAP (EU-LON3)]]></category>
+		<category><![CDATA[Essential Maintenance]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1759</guid>
+		<description><![CDATA[RedHat Mobile has been informed by one of our infrastructure partners of major essential maintenance on our Shared EU Enterprise Platform (LON3). This work has been deemed necessary to maintain data centre infrastructure. This maintenance has been scheduled for the following time periods: Wednesday, April 26th, 2017 07:00 – 08:00 UTC All services should remain [&#8230;]<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1759&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>RedHat Mobile has been informed by one of our infrastructure partners of major essential maintenance on our Shared EU Enterprise Platform (LON3). This work has been deemed necessary to maintain data centre infrastructure.<br />
+This maintenance has been scheduled for the following time periods:</p>
+<p>Wednesday, April 26th, 2017 07:00 – 08:00 UTC</p>
+<p>All services should remain operational throughout, however, there may be brief periods where the services on our EU Enterprise Studio and Cloud will be unavailable.</p>
+<p>Please accept our apologies for any inconvenience this may cause. We welcome you to reach out to our Support Team via appropriate channels with any questions or concerns.</p>
+<p><strong>ALL CLEAR 2017-04-26 08:10 UTC<br />
+</strong></p>
+<p>This round of maintenance has been completed.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1759/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1759/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1759&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>SSL Certificate Renewal Notice for EU-LON3</title>
+		<link>https://redhatmobilestatus.com/2017/04/12/ssl-certificate-renewal-notice-for-eu-lon3/</link>
+		<pubDate>Wed, 12 Apr 2017 13:50:24 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1755</guid>
+		<description><![CDATA[As part of our ongoing commitment to quality, reliability and security, Red Hat Mobile wishes to advise customers hosted on its Shared EU Enterprise grid (EU-LON3) of some upcoming SSL certificate renewals, as follows: Tuesday, 18 April 2017 @ 09:00 UTC (10:00 IST) App Cloud Dev (https://*.df.dev.e111.feedhenry.net) App Cloud Live (https://*.df.live.e111.feedhenry.net) No services (or live [&#8230;]<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1755&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>As part of our ongoing commitment to quality, reliability and security, Red Hat Mobile wishes to advise customers hosted on its Shared EU Enterprise grid (EU-LON3) of some upcoming SSL certificate renewals, as follows:</p>
+<p><strong>Tuesday, 18 April 2017 @ 09:00 UTC (10:00 IST)</strong></p>
+<ul>
+<li>App Cloud Dev (<a href="https://*.df.dev.e111.feedhenry.net" rel="nofollow">https://*.df.dev.e111.feedhenry.net</a>)</li>
+<li>App Cloud Live (<a href="https://*.df.live.e111.feedhenry.net" rel="nofollow">https://*.df.live.e111.feedhenry.net</a>)</li>
+</ul>
+<p>No services (or live apps) will be affected by these updates as this is a routine maintenance activity. However, if you have previously downloaded and/or installed one of these certificates in one of your local systems, you should bear this update in mind.</p>
+<p>For any questions or concerns regarding this work, please raise a support ticket or contact your account manager directly.</p>
+<p><strong>ALL CLEAR 2017-04-18</strong></p>
+<p>The SSL certificates indicated above have been installed and verified successfully, with no impact on services or apps.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1755/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1755/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1755&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Essential Maintenance Notification: Shared Enterprise EU (LON3)</title>
+		<link>https://redhatmobilestatus.com/2017/04/07/essential-maintenance-notification-shared-enterprise-eu-lon3/</link>
+		<pubDate>Fri, 07 Apr 2017 13:55:15 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[Core MAP (EU-LON3)]]></category>
+		<category><![CDATA[Essential Maintenance]]></category>
+		<category><![CDATA[MBaaS]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1753</guid>
+		<description><![CDATA[Red Hat Mobile has been informed by one of its infrastructure partners of essential maintenance on our Shared Enterprise EU platform (LON3). This work has been deemed necessary to introduce additional security measures and maintain data centre infrastructure. This work has been scheduled for the following time period: Saturday, 22nd April 2017 at 23:00 UTC [&#8230;]<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1753&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Red Hat Mobile has been informed by one of its infrastructure partners of essential maintenance on our Shared Enterprise EU platform (LON3). This work has been deemed necessary to introduce additional security measures and maintain data centre infrastructure.</p>
+<p>This work has been scheduled for the following time period:</p>
+<p>Saturday, 22nd April 2017 at 23:00 UTC to Sunday, 23rd April at 03:00 UTC.</p>
+<p>They have informed us that disruptions are likely during the 2nd and 3rd hour of this maintenance to some Core MAP and MBaaS services. Please accept our apologies in advance for any inconvenience caused.</p>
+<p>For any additional queries, please contact our support team via the Red Hat Customer Portal.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1753/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1753/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1753&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Temporary Disruption to the EU-LON3 Grid</title>
+		<link>https://redhatmobilestatus.com/2017/04/05/temporary-disruption-to-the-eu-lon3-grid/</link>
+		<pubDate>Wed, 05 Apr 2017 09:55:23 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[Core MAP (EU-LON3)]]></category>
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1749</guid>
+		<description><![CDATA[08:56 UTC Wed 5th Apr: We have experienced a temporary disruption to our EU-LON3 grid. Our engineers are investigating the issue, and will continue to post updates until a resolution is found. Update: 09:11 UTC Wed 5th Apr We have restored service to the affected grid. Our messaging system required the removal and recreation of an [&#8230;]<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1749&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>08:56 UTC Wed 5th Apr:</p>
+<p>We have experienced a temporary disruption to our EU-LON3 grid. Our engineers are investigating the issue, and will continue to post updates until a resolution is found.</p>
+<p><strong>Update:</strong> 09:11 UTC Wed 5th Apr</p>
+<p>We have restored service to the affected grid. Our messaging system required the removal and recreation of an exchange in order to allow services to correct connect to the relevant queue. This work has been done, and dependant services are connecting as expected.</p>
+<p>As a follow up task we will investigate why the queue became blocked, and ensure measures are put in place to prevent this issue re-occurring.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1749/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1749/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1749&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>SSL Certificate Renewal Notice on the US-CSG Grid</title>
+		<link>https://redhatmobilestatus.com/2017/04/03/ssl-certificate-renewal-notice-on-the-us-csg-grid/</link>
+		<pubDate>Mon, 03 Apr 2017 15:53:07 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[Core MAP (US-CSG1)]]></category>
+		<category><![CDATA[Essential Maintenance]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1747</guid>
+		<description><![CDATA[As part of our ongoing commitment to quality, reliability and security, Red Hat Mobile wishes to advise customers hosted on its Shared US Enterprise grid (CSG1) of an upcoming SSL certificate renewal for (*.df.dev.u101.feedhenry.net). This certificate is scheduled to be replaced on Tuesday, 4th April 2017. No services (or live apps) will be affected by [&#8230;]<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1747&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>As part of our ongoing commitment to quality, reliability and security, Red Hat Mobile wishes to advise customers hosted on its Shared US Enterprise grid (CSG1) of an upcoming SSL certificate renewal for (*.df.dev.u101.feedhenry.net).</p>
+<p>This certificate is scheduled to be replaced on Tuesday, 4th April 2017.</p>
+<p>No services (or live apps) will be affected by this update as this is a routine maintenance activity. However, if you have previously downloaded and/or installed this certificate in one of your local systems, you should bear this update in mind.</p>
+<p>For any questions or concerns regarding this work, please raise a support ticket or contact your account manager directly.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1747/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1747/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1747&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Temporary Disruption to the AU-MAX1 Grid</title>
+		<link>https://redhatmobilestatus.com/2017/03/07/temporary-disruption-to-the-au-max1-grid/</link>
+		<pubDate>Tue, 07 Mar 2017 01:02:05 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1740</guid>
+		<description><![CDATA[We are currently experiencing a disruption in service in our AU-MAX1 grid. We are in the process of investigating this issue and hope to have it resolved as soon as possible. ALL CLEAR 2017-03-07 01:07 UTC All services are responding as expected and we will continue to monitor the services closely.<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1740&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>We are currently experiencing a disruption in service in our AU-MAX1 grid. We are in the process of investigating this issue and hope to have it resolved as soon as possible.</p>
+<p><strong>ALL CLEAR 2017-03-07 01:07 UTC</strong><br />
+All services are responding as expected and we will continue to monitor the services closely.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1740/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1740/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1740&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Service Disruption on Core MAP (EU-EMA)</title>
+		<link>https://redhatmobilestatus.com/2017/03/06/service-disruption-on-core-map-eu-ema/</link>
+		<pubDate>Mon, 06 Mar 2017 09:47:38 +0000</pubDate>
+		<dc:creator><![CDATA[Mobile Cloud Operations]]></dc:creator>
+				<category><![CDATA[Core MAP (EU-EMA)]]></category>
+		<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://redhatmobilestatus.com/?p=1732</guid>
+		<description><![CDATA[We are experiencing elevated response rates for our EU Grid (EU-EMA1) App Studio. We are currently investigating to determine the root cause of this issue. UPDATE 2017-03-06 10:15 UTC The underlying issue has been identified and resolved and services are now returning to normal. ALL CLEAR 2017-03-06 10:25 UTC We have completed our internal validation [&#8230;]<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1732&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>We are experiencing elevated response rates for our EU Grid (EU-EMA1) App Studio. We are currently investigating to determine the root cause of this issue.</p>
+<p><strong>UPDATE 2017-03-06 10:15 UTC</strong></p>
+<p>The underlying issue has been identified and resolved and services are now returning to normal.</p>
+<p><strong>ALL CLEAR 2017-03-06 10:25 UTC</strong></p>
+<p>We have completed our internal validation testing and are satisfied that all services are operating normally again.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/feedhenrystatus.wordpress.com/1732/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/feedhenrystatus.wordpress.com/1732/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1732&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+
+		<media:content url="http://0.gravatar.com/avatar/cee3a9b4fb78eee9c81060d732e714d9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">feedhenryops</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

@@ -1,0 +1,172 @@
+{
+  "acme-dev": {
+    "apps": [
+      {
+        "state": "SUSPENDED",
+        "name": "acme-wouq7dngj8ectl4fo3xiuk56-acme-dev",
+        "title": "Dummy Cloud Application",
+        "guid": "wouq7dngj8ectl4fo3xiuk56",
+        "type": "App Cloud",
+        "lastModified": 1496251976234,
+        "cpu": 0,
+        "disk": 0,
+        "memory": 0
+      }
+    ],
+    "environment": "acme-dev",
+    "resources": {
+      "apps": {
+        "name": "apps",
+        "running": 0,
+        "total": 1,
+        "apps": 0
+      },
+      "cache": {
+        "name": "cache",
+        "system": 0,
+        "total": 1024,
+        "used": 1
+      },
+      "cpu": {
+        "total": 100,
+        "used": 0,
+        "system": 0,
+        "apps": 0
+      },
+      "disk": {
+        "total": 1952,
+        "used": 90,
+        "system": 90,
+        "apps": 0
+      },
+      "memory": {
+        "apps": 0,
+        "cache": 1,
+        "name": "memory",
+        "system": 20,
+        "total": 1024,
+        "used": 20
+      },
+      "inode": {
+        "name": "inode",
+        "total": 131072,
+        "used": 10946
+      }
+    },
+    "ts": 1496251976237
+  },
+  "acme-test": {
+    "apps": [
+      {
+        "state": "SUSPENDED",
+        "name": "acme-wouq7dngj8ectl4fo3xiuk56-acme-test",
+        "title": "Dummy Cloud Application",
+        "guid": "wouq7dngj8ectl4fo3xiuk56",
+        "type": "App Cloud",
+        "lastModified": 1496251979671,
+        "cpu": 0,
+        "disk": 0,
+        "memory": 0
+      }
+    ],
+    "environment": "acme-test",
+    "resources": {
+      "apps": {
+        "name": "apps",
+        "running": 0,
+        "total": 1,
+        "apps": 0
+      },
+      "cache": {
+        "name": "cache",
+        "system": 0,
+        "total": 1024,
+        "used": 1
+      },
+      "cpu": {
+        "total": 100,
+        "used": 0,
+        "system": 0,
+        "apps": 0
+      },
+      "disk": {
+        "total": 1952,
+        "used": 186,
+        "system": 186,
+        "apps": 0
+      },
+      "memory": {
+        "apps": 0,
+        "cache": 1,
+        "name": "memory",
+        "system": 25,
+        "total": 1024,
+        "used": 25
+      },
+      "inode": {
+        "name": "inode",
+        "total": 131072,
+        "used": 11655
+      }
+    },
+    "ts": 1496251979677
+  },
+  "acme-uat": {
+    "apps": [
+      {
+        "state": "RUNNING",
+        "name": "acme-wouq7dngj8ectl4fo3xiuk56-acme-uat",
+        "title": "Dummy Cloud Application",
+        "guid": "wouq7dngj8ectl4fo3xiuk56",
+        "type": "App Cloud",
+        "lastModified": 1496251983710,
+        "cpu": 0,
+        "disk": 0,
+        "memory": 56
+      }
+    ],
+    "environment": "acme-uat",
+    "resources": {
+      "apps": {
+        "name": "apps",
+        "running": 1,
+        "total": 1,
+        "apps": 56
+      },
+      "cache": {
+        "name": "cache",
+        "system": 0,
+        "total": 1024,
+        "used": 1
+      },
+      "cpu": {
+        "total": 100,
+        "used": 0,
+        "system": 0,
+        "apps": 0
+      },
+      "disk": {
+        "total": 1952,
+        "used": 93,
+        "system": 93,
+        "apps": 0
+      },
+      "memory": {
+        "apps": 56,
+        "cache": 1,
+        "name": "memory",
+        "system": 21,
+        "total": 1024,
+        "used": 77
+      },
+      "inode": {
+        "name": "inode",
+        "total": 131072,
+        "used": 11646
+      }
+    },
+    "ts": 1496251983711
+  },
+  "ts": 1496251983852,
+  "_id": "592efe4fc4826aba298cc6af"
+}

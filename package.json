@@ -1,10 +1,10 @@
 {
   "name": "rhmap-mobile-monitor-cloud",
   "version": "0.1.0",
-  "description": "cloud backend for our monitor application",
+  "description": "cloud backend for the rhmap application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "NODE_ENV=test NODE_PATH=. mocha $(find ./lib -name '*.test.js')",
     "start": "env FH_USE_LOCAL_DB=true NODE_PATH=. nodemon application.js | bunyan"
   },
   "author": "Evan Shortiss",
@@ -14,6 +14,7 @@
     "body-parser": "~1.16.0",
     "cors": "~2.8.1",
     "cron-master": "~0.3.1",
+    "dotenv": "~4.0.0",
     "env-var": "~2.4.2",
     "express": "~4.14.1",
     "fh-bunyan": "~0.3.0",
@@ -21,15 +22,22 @@
     "fh-mbaas-api": "~5.14.2",
     "mkdirp": "~0.5.1",
     "moment": "~2.17.1",
+    "pixl-xml": "~1.0.10",
     "ramda": "~0.23.0",
-    "rhmap-mongodb": "git+https://github.com/MikeyBurkman/rhmap-mongodb#v1.1.0"
+    "request": "~2.81.0",
+    "rhmap-mongodb": "git+https://github.com/MikeyBurkman/rhmap-mongodb#v1.1.0",
+    "verror": "~1.10.0"
   },
   "devDependencies": {
     "bunyan": "~1.8.5",
     "chai": "~3.5.0",
+    "expect": "~1.20.2",
     "mocha": "~3.2.0",
     "nodemon": "~1.11.0",
     "proxyquire": "~1.7.11",
-    "sinon": "~1.17.7"
+    "require-uncached": "~1.0.3",
+    "sinon": "~1.17.7",
+    "sinon-as-promised": "~4.0.3",
+    "supertest": "~3.0.0"
   }
 }

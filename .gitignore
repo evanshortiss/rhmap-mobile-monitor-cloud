@@ -7,3 +7,4 @@ plato
 *.log
 .DS_Store
 .vscode
+.env

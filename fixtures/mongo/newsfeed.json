@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "592f7e908b43066ae4afe5b4",
+    "category": [
+      "Core MAP (EU-LON3)",
+      "Essential Maintenance",
+      "MBaaS"
+    ],
+    "description": "Red Hat Mobile has been informed by one of its infrastructure partners of essential maintenance on our Shared Enterprise EU platform (LON3). This work has been deemed necessary to introduce additional security measures and maintain data centre infrastructure. This work has been scheduled for the following time period: Saturday, 22nd April 2017 at 23:00 UTC [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1753&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/04/07/essential-maintenance-notification-shared-enterprise-eu-lon3/",
+    "pubDate": "2017-04-07T13:55:15.000Z",
+    "title": "Essential Maintenance Notification: Shared Enterprise EU (LON3)"
+  },
+  {
+    "_id": "592f7e488b43066ae4afe5ad",
+    "category": [
+      "Core MAP (EU-LON3)",
+      "Essential Maintenance"
+    ],
+    "description": "RedHat Mobile has been informed by one of our infrastructure partners of major essential maintenance on our Shared EU Enterprise Platform (LON3). This work has been deemed necessary to maintain data centre infrastructure. This maintenance has been scheduled for the following time periods: Wednesday, April 26th, 2017 07:00 – 08:00 UTC All services should remain [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1759&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/04/21/essential-maintenance-notification-shared-enterprise-eu-lon3-2/",
+    "pubDate": "2017-04-21T08:17:14.000Z",
+    "title": "Essential Maintenance Notification: Shared Enterprise EU (LON3)"
+  },
+  {
+    "_id": "592f7e488b43066ae4afe5ac",
+    "category": [
+      "Core MAP (EU-LON3)",
+      "Essential Maintenance",
+      "MBaaS"
+    ],
+    "description": "RedHat Mobile has been informed by one of our infrastructure partners of a second major essential maintenance on our Shared EU Enterprise Platform (LON3). This work has been deemed necessary to maintain  infrastructure security. This maintenance has been scheduled for the following time periods: Wednesday, April 26th, 2017 08:30 – 09:30 UTC There will be [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1761&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/04/21/essential-maintenance-notification-shared-enterprise-eu-lon3-3/",
+    "pubDate": "2017-04-21T08:27:37.000Z",
+    "title": "Essential Maintenance Notification: Shared Enterprise EU (LON3)"
+  },
+  {
+    "_id": "592f7e488b43066ae4afe5ae",
+    "category": "Core MAP (US-TOM)",
+    "description": "We are currently experiencing a disruption in service in our US-TOM grid. We are in the process of investigating this issue and hope to have it resolved as soon as possible. UPDATE 2017-04-30 13:17 UTC The root cause has been identified and corrective action is being taken in order to restore proper service. UPDATE 2017-04-30 [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1768&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/04/30/service-disruption-to-the-us-tom-grid/",
+    "pubDate": "2017-04-30T12:03:06.000Z",
+    "title": "Service Disruption to the US-TOM Grid"
+  },
+  {
+    "_id": "592f7e488b43066ae4afe5ab",
+    "category": "Core MAP (US-TOM)",
+    "description": "2017-05-03 18:41 UTC We are currently experiencing some disruption to service in our Evaluation Grid US-TOM App Studio. We are actively working on this issue and hope to have it resolved as soon as possible. UPDATE: 2017-05-03 18:50 UTC The root cause of the issue has been identified and resolved. All services have resumed normal operation. Please [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1776&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/05/03/brief-service-disruption-to-evals-grid-us-tom/",
+    "pubDate": "2017-05-03T18:58:07.000Z",
+    "title": "Brief Service Disruption to Evals Grid (US-Tom)"
+  },
+  {
+    "_id": "592f7e908b43066ae4afe5b3",
+    "category": [
+      "Build Farm (US-SAM)",
+      "Emergency Maintenance",
+      "General"
+    ],
+    "description": "We have experienced a loss of connectivity to the iOS instances in our US Build Farm SAM1-FARM, commencing at 20:40 UTC on Wed 10th May. Although service has been restored as of 20:49 UTC on Wed 10th May, we believe any in-flight builds would still have been in progress or completed, but this would not [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1778&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/05/10/loss-of-connectivity-us-sam-build-farm-ios/",
+    "pubDate": "2017-05-10T21:14:57.000Z",
+    "title": "Loss of Connectivity US-SAM Build Farm (iOS)"
+  },
+  {
+    "_id": "592f7e908b43066ae4afe5b2",
+    "category": [
+      "Build Farm (AU-MAX)",
+      "Emergency Maintenance",
+      "General"
+    ],
+    "description": "We have experienced a brief loss of connectivity to the iOS instances in our US Build Farm SAM1-FARM, commencing at 18:40 UTC on Friday 10th May. Service was restored at 18:44 UTC on Friday 10th May. Android builds were not affected during this time period. We have reached out to our infrastructure partners for a root [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1790&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/05/12/brief-loss-of-connectivity-au-max-build-farm-ios/",
+    "pubDate": "2017-05-12T18:47:54.000Z",
+    "title": "Brief Loss of Connectivity AU-MAX Build Farm (iOS)"
+  },
+  {
+    "_id": "592f7e908b43066ae4afe5b1",
+    "category": [
+      "Build Farm (US-SAM)",
+      "Essential Maintenance",
+      "General",
+      "Security"
+    ],
+    "description": "Following from this incident: https://redhatmobilestatus.com/2017/05/10/loss-of-connectivity-us-sam-build-farm-ios/ our vendor will implement a permanent fix to resolve the issue. The change window for this work is commencing at 16:59 PST/23:59 UTC on Sunday 14th May, for a period of up to one hour. The iOS builders of the US-SAM Farm may be intermittently unavailable during this period. &#160; ALL CLEAR [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1801&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/05/13/essential-maintenance-us-sam-farm-ios/",
+    "pubDate": "2017-05-13T11:39:29.000Z",
+    "title": "Essential Maintenance &#8211; US-SAM Farm (iOS)"
+  },
+  {
+    "_id": "592f7e908b43066ae4afe5b0",
+    "category": [
+      "Essential Maintenance",
+      "MBaaS",
+      "Scheduled Maintenance"
+    ],
+    "description": "As a follow on to complete previous work accomplished during a recent deployment of the Red Hat Mobile platform, we are intending to carry out scheduled maintenance on all MBaaS infrastructure. This work will take place on the 30th May, with the following specific 1 hour windows per region: US-SAM: 03:00-04:00 UTC [Update: The maintenance for US-SAM has been [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1813&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/05/22/scheduled-maintenance-notification/",
+    "pubDate": "2017-05-22T14:27:58.000Z",
+    "title": "Scheduled Maintenance Notification"
+  },
+  {
+    "_id": "592f7e488b43066ae4afe5af",
+    "category": "General",
+    "description": "As part of our ongoing commitment to quality, reliability and security, Red Hat Mobile wishes to advise customers hosted on its Shared EU Enterprise grid (EU-LON3) of some upcoming SSL certificate renewals, as follows: Tuesday, 18 April 2017 @ 09:00 UTC (10:00 IST) App Cloud Dev (https://*.df.dev.e111.feedhenry.net) App Cloud Live (https://*.df.live.e111.feedhenry.net) No services (or live [&#8230;]<img alt=\"\" border=\"0\" src=\"https://pixel.wp.com/b.gif?host=redhatmobilestatus.com&#038;blog=29009608&#038;post=1755&#038;subd=feedhenrystatus&#038;ref=&#038;feed=1\" width=\"1\" height=\"1\" />",
+    "link": "https://redhatmobilestatus.com/2017/04/12/ssl-certificate-renewal-notice-for-eu-lon3/",
+    "pubDate": "2017-05-31T07:39:04.000Z",
+    "title": "SSL Certificate Renewal Notice for EU-LON3"
+  }
+]
