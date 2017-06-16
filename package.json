@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test NODE_PATH=. mocha $(find ./lib -name '*.test.js')",
-    "start": "env FH_USE_LOCAL_DB=true NODE_PATH=. nodemon application.js | bunyan"
+    "start": "env FH_USE_LOCAL_DB=true NODE_PATH=. nodemon application.js | bunyan",
+    "lint": "eslint $(find ./lib -name '*.js')"
   },
   "author": "Evan Shortiss",
   "license": "MIT",
@@ -19,7 +20,7 @@
     "express": "~4.14.1",
     "fh-bunyan": "~0.3.0",
     "fh-fhc": "~2.17.1-516",
-    "fh-mbaas-api": "~5.14.2",
+    "fh-mbaas-api": "~6.1.8",
     "mkdirp": "~0.5.1",
     "moment": "~2.17.1",
     "pixl-xml": "~1.0.10",
@@ -31,8 +32,10 @@
   "devDependencies": {
     "bunyan": "~1.8.5",
     "chai": "~3.5.0",
+    "eslint": "~4.0.0",
     "expect": "~1.20.2",
     "mocha": "~3.2.0",
+    "morgan": "~1.8.2",
     "nodemon": "~1.11.0",
     "proxyquire": "~1.7.11",
     "require-uncached": "~1.0.3",

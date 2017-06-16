@@ -12,20 +12,25 @@ const Promise = require('bluebird');
 const sync = require('lib/sync');
 const fhc = require('lib/fhc');
 const cron = require('lib/cron');
+const log = require('fh-bunyan').getLogger(__filename);
 
 // Perform startup tasks prior to actually bind the application to a port
 // 1. Login to FHC and ensure we can get platform information
 // 2. Start the sync framework and datasets
 // 3. Setup cron jobs that will periodically refresh data
-Promise.resolve()
+log.info('startup in progress. please be patient while tasks complete');
+Promise.delay(1000)
   .then(fhc.init)
   .then(sync.init)
   .then(cron.init)
-  .then(start);
+  .then(start)
+  .catch((e) => {
+    log.error(e, 'application startup failed');
+    process.exit(1);
+  });
 
 function start () {
   const express = require('express');
-  const log = require('fh-bunyan').getLogger(__filename);
   const app = module.exports = express();
   const auth = require('lib/auth');
   const mbaasApi = require('fh-mbaas-api');
@@ -36,12 +41,15 @@ function start () {
   log.info('starting application');
 
   const whitelist = ['http://localhost:8080', 'http://127.0.0.1:8080'];
-  app.use(require('cors')({
+  const cors = require('cors')({
     origin: (origin, callback) => {
       // only add cors headers for local development, could also add app hosts
       callback(null, whitelist.indexOf(origin) !== -1);
     }
-  }));
+  });
+
+  app.use(cors);
+  app.options('/*', cors);
 
   // This will allow $fh.auth to work during local development
   app.use(auth.getFhAuthBoxStub());
