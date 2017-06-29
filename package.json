@@ -20,7 +20,7 @@
     "express": "~4.14.1",
     "fh-bunyan": "~0.3.0",
     "fh-fhc": "~2.17.1-516",
-    "fh-mbaas-api": "~6.1.8",
+    "fh-mbaas-api": "~7.0.11",
     "mkdirp": "~0.5.1",
     "moment": "~2.17.1",
     "pixl-xml": "~1.0.10",

@@ -1,5 +1,6 @@
 # rhmap-mobile-monitor-cloud
-Cloud application that provides mobile platform statistics to its companion app.
+Cloud application that provides mobile platform statistics to a companion
+Cordova Application that can be found [here](https://github.com/evanshortiss/rhmap-mobile-monitor)
 
 
 ## Prerequisites
@@ -16,7 +17,16 @@ follows:
 * FHC_USER - Used for fhc login
 * FHC_PASS - Used for fhc login
 
-Once these are set just run `npm start` after you've finished an `npm install`.
+Once these are set just run `npm start` after you've finished an `npm install`:
+
+```
+# fetch dependencies
+npm install
+
+# start the application server
+npm start
+```
+
 The next two sections describe how you might set them.
 
 NOTE: It is recommended to create a user account with restricted permissions
@@ -41,6 +51,9 @@ export FH_MILLICORE=acme.us.redhatmobile.com
 export FHC_PASS=yourpa55w0rd
 export FHC_USER=you@acme.com
 ```
+
+The above commands on Windows should also work if you replace `export` with
+`set`, e.g `set FHC_USER=you@acme.com`.
 
 ### On Red Hat Mobile Application Platform
 Use the Environment Variables section for your Cloud Application in the Studio.
