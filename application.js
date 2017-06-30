@@ -51,20 +51,20 @@ function start () {
   app.use(cors);
   app.options('/*', cors);
 
-  // This will allow $fh.auth to work during local development
-  app.use(auth.getFhAuthBoxStub());
-
   // Define sys before our authentication since sys must be public
   app.use('/sys', mbaasExpress.sys([]));
-
-  // All calls below this line will be authenticated via their X-FH-SESSIONTOKEN
-  app.use(auth.getMiddleware());
 
   // Expose sync and other RHMAP APIs
   app.use('/mbaas', mbaasExpress.mbaas);
 
   // Note: important that this is added just before your own Routes
   app.use(mbaasExpress.fhmiddleware());
+
+  // This will allow $fh.auth to work during local development
+  app.use(auth.getFhAuthBoxStub());
+
+  // All calls below this line will be authenticated via their X-FH-SESSIONTOKEN
+  app.use(auth.getMiddleware());
 
   // Add the FeedHenry error handler ("uncaughtException" for restarting etc.)
   mbaasExpress.errorHandler();
